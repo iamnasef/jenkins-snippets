@@ -16,13 +16,10 @@ I wanted a place to test miscellaneous jenkins snippets .
 **This is why I created this project**.
 
 [Key Features](#key-features) •
-[Installation](#installation) •
-[Technologies Used](#technologies-used) •
+[Technologies](#technologies) •
 [Contact Me](#contact-me) 
 
 
-
-<!--![Main Image](githubcovers.png)-->
 
 
 </div>
@@ -33,7 +30,7 @@ I wanted a place to test miscellaneous jenkins snippets .
 - Testing and playing with different ideas.
 - It can work with both on-prem and in the cloud (AWS, Azure, GCP...etc).
 
-## Technologies Used
+## Technologies
 
 | Application                                         | Description                                  
 | --------------------------------------------------- |--------------------------------------------- 
